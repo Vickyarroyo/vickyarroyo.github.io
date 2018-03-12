@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vickyarroyo.com" resolutions="1x" timestamp="1520867694524">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vickyarroyo.com" resolutions="1x" timestamp="1520868551131">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173378056" ref="index:about:portfolio:contact"/>
@@ -507,8 +507,8 @@
       <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="401359075" seo="true" mt="1520867658273" redirect="true"/>
-  <file name="about.html" crc="3846900471" seo="true" mt="1520867579343" redirect="true"/>
-  <file name="portfolio.html" crc="323139272" seo="true" mt="1520867579343" redirect="true"/>
-  <file name="contact.html" crc="523026121" seo="true" mt="1520867579343" redirect="true"/>
+  <file name="index.html" crc="320794987" seo="true" mt="1520868345260" redirect="true"/>
+  <file name="about.html" crc="3770929587" seo="true" mt="1520868345260" redirect="true"/>
+  <file name="portfolio.html" crc="4001817650" seo="true" mt="1520868345260" redirect="true"/>
+  <file name="contact.html" crc="4218019807" seo="true" mt="1520868345260" redirect="true"/>
 </manifest>
